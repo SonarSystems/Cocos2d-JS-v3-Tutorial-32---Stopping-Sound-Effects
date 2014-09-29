@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-32---Stopping-Sound-Effects
+Cocos2d-JS v3 Tutorial 32 - Stopping Sound Effects
 ==================================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/jOEdZkVGhaA
